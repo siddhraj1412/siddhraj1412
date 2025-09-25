@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Siddhraj Thakor</h1>
 <h3 align="center">A passionate Data science Enthusiast</h3>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=siddhraj1412&label=Profile%20views&color=0e75b6&style=flat" alt="siddhraj1412" /> 
+</p>
+
 - 🔭 I’m currently working on [Football Analysis using YOLO V8](https://github.com/siddhraj1412/Intelligent-Football-Match-Analyzer-using-YOLO-and-CV-Techniques)
 
 - 🌱 I’m currently learning **YOLO and different Machine Learning model**
