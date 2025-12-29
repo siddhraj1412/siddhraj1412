@@ -87,7 +87,7 @@
 ### ⚽ Domain Focus
 ```text
 Football Analytics • Sports Data • Moneyball • ML for Performance Analysis
-
+```
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&" alt="siddhraj1412" /></p>
 
