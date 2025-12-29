@@ -38,3 +38,8 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&" alt="siddhraj1412" /></p>
+
+## 🐍 Contribution Activity
+
+![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
