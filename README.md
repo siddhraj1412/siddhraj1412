@@ -43,7 +43,6 @@
 <img src="https://raw.githubusercontent.com/siddhraj1412/siddhraj1412/output/github-contribution-grid-snake.svg"/>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&" alt="siddhraj1412" /></p>
 
 
 <img src="https://ghchart.rshah.org/siddhraj1412"/>
