@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhraj Thakor</h1>
 <h3 align="center">Aspiring Football analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhraj1412&label=Profile%20views&color=0e75b6&style=flat" alt="siddhraj1412" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=siddhraj1412&label=Profile%20views&color=0e75b6&style=flat" alt="siddhraj1412" /> </p>
 
 - 🔭 I’m currently working on **Football analysis skills**
 
@@ -22,7 +22,7 @@
 - ⚡ Fun fact **I think I am going crazy for football**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/siddhrajth94671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddhrajth94671" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siddhraj-thakor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhraj-thakor" height="30" width="40" /></a>
 <a href="https://kaggle.com/siddhrajthakor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="siddhrajthakor" height="30" width="40" /></a>
@@ -107,6 +107,8 @@
 
 <img src="https://metrics.lecoq.io/siddhraj1412?template=classic&base.activity=1&config.timezone=Asia%2FKolkata" />
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&" alt="siddhraj1412" /></p>
+
 <p align="center">
   <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=siddhraj1412&theme=react-dark&hide_border=true&cache_seconds=21600"
@@ -115,34 +117,4 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=siddhraj1412
 ## 🐍 Contribution Activity
 
 ![snake](https://raw.githubusercontent.com/siddhraj1412/siddhraj1412/output/github-contribution-grid-snake-dark.svg)
-
-
-<p>
-  <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&theme=react-dark"
-       alt="siddhraj1412" />
-</p>
-
-
-<p>
-  <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&theme=dracula"
-       alt="siddhraj1412" />
-</p>
-
-
-<p>
-  <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&theme=tokyonight"
-       alt="siddhraj1412" />
-</p>
-
-
-<p>
-  <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&theme=github-dark"
-       alt="siddhraj1412" />
-</p>
-
-
 
