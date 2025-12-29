@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siddhraj Thakor</h1>
-<h3 align="center">Aspiring Football analyst from India</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=00D4FF&size=26&center=true&width=720&lines=Full+Stack+Engineer+%26+AI%2FML+Practitioner;Building+Scalable+Systems+with+Code;From+Data+to+Production" />
+<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=00D4FF&size=26&center=true&width=780&lines=Aspiring+Football+Data+Analyst;Moneyball+Mindset+%7C+ML+in+Sports;Analyzing+Games+Beyond+the+Scoreline;Football+%2B+Data+%2B+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=00D4FF&size=26&center=true&width=780&lines=AIML+Student+from+India;Machine+Learning+for+Sports+Analytics;Data+Visualization+%26+Predictive+Models;Learning+by+Building+and+Analyzing" />
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=siddhraj1412&label=Profile%20views&color=0e75b6&style=flat" alt="siddhraj1412" /> </p>
 
