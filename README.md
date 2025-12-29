@@ -44,3 +44,12 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&" alt="siddhraj1412" /></p>
+
+
+<img src="https://metrics.lecoq.io/siddhraj1412?template=classic&base.activity=1&base.repositories=1&config.timezone=Asia%2FKolkata"/>
+
+<img src="https://metrics.lecoq.io/siddhraj1412?template=classic&languages=1&languages.analysis=1&languages.limit=8"/>
+
+<img src="https://metrics.lecoq.io/siddhraj1412?template=classic&habits=1&habits.facts=true&habits.charts=true"/>
+
+<img src="https://ghchart.rshah.org/siddhraj1412"/>
