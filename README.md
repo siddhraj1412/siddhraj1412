@@ -1,73 +1,46 @@
-<h1 align="center">Hi 👋, I'm Siddhraj Thakor</h1>
-<h3 align="center">A passionate Data science Enthusiast</h3>
+# Hi 👋, I'm Siddhraj Thakor 
+### Data Science Enthusiast | Computer Vision & Machine Learning
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=siddhraj1412&label=Profile%20views&color=0e75b6&style=flat" alt="siddhraj1412" /> 
-</p>
-
-- 🔭 I’m currently working on [Football Analysis using YOLO V8](https://github.com/siddhraj1412/Intelligent-Football-Match-Analyzer-using-YOLO-and-CV-Techniques)
-
-- 🌱 I’m currently learning **YOLO and different Machine Learning model**
-
-- 📫 How to reach me **siddhraj761@gmail.com**
-
-- ⚡ Fun fact **I can talk all day about football**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/siddhrajth94671" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddhrajth94671" height="30" width="40" />
-</a>
-<a href="https://linkedin.com/in/siddhraj-thakor" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhraj-thakor" height="30" width="40" />
-</a>
-<a href="https://kaggle.com/siddhraj-thakor" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="siddhrajthakor" height="30" width="40" />
-</a>
-<a href="https://instagram.com/siddhraj_1470" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddhraj_1470" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/23aiml070_sid" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="23aiml070_sid" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/siddhrajthakor" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddhrajthakor" height="30" width="40" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=siddhraj1412&label=Profile%20views&color=0e75b6&style=flat-square" alt="siddhraj1412" />
+<img src="https://img.shields.io/badge/Main_Project-Football_Analysis-green?style=flat-square&logo=github" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🚀 Featured Project
+**[Intelligent Football Match Analyzer](https://github.com/siddhraj1412/Intelligent-Football-Match-Analyzer-using-YOLO-and-CV-Techniques)**
+*Utilizing **YOLO v8** and Advanced CV techniques to track players, detect ball possession, and analyze team movement in real-time.*
+
+- 🔭 **Current Focus:** Deep Learning & Object Detection (YOLO)
+- 🌱 **Learning:** Fine-tuning Large Language Models & Advanced ML Pipelines
+- ⚡ **Fun Fact:** I can talk all day about football (especially the tactical side!)
+
+---
+
+### 🛠️ Tech Stack & Tools
+**Languages:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Data Science & ML:** ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+### 📊 Github Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siddhraj1412&show_icons=true&theme=visual_studio_code&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhraj1412&layout=compact&theme=visual_studio_code" />
+</p>
+
+<p align="center">
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&theme=visual_studio_code" />
+</p>
+
+---
+
+### 📫 Connect with me
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhraj1412&show_icons=true&locale=en&layout=compact" alt="siddhraj1412" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhraj1412&show_icons=true&locale=en" alt="siddhraj1412" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&" alt="siddhraj1412" />
+<a href="https://linkedin.com/in/siddhraj-thakor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://kaggle.com/siddhraj-thakor"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+<a href="https://leetcode.com/siddhrajthakor"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<a href="mailto:siddhraj761@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
