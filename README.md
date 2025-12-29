@@ -39,3 +39,29 @@
 <img src="https://metrics.lecoq.io/siddhraj1412?template=classic&base.activity=1&base.repositories=1&config.timezone=Asia%2FKolkata" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&" alt="siddhraj1412" /></p>
+
+## 📊 Advanced GitHub Metrics
+
+### 🔥 Overall Developer Activity
+<img src="https://metrics.lecoq.io/siddhraj1412?template=classic&base.header=0&base.activity=1&base.repositories=1&base.community=0&config.timezone=Asia%2FKolkata"/>
+
+---
+
+### 🧠 Coding Habits & Productivity
+<img src="https://metrics.lecoq.io/siddhraj1412?template=classic&isocalendar=1&languages=1&languages.limit=8&languages.analysis=1&languages.colors=github&config.timezone=Asia%2FKolkata"/>
+
+---
+
+### 🏆 Achievements & Milestones
+<img src="https://metrics.lecoq.io/siddhraj1412?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&config.timezone=Asia%2FKolkata"/>
+
+---
+
+### 🕒 When I Code
+<img src="https://metrics.lecoq.io/siddhraj1412?template=classic&habits=1&habits.facts=true&habits.charts=true&config.timezone=Asia%2FKolkata"/>
+
+---
+
+### 📌 Pinned & Featured Repositories
+<img src="https://metrics.lecoq.io/siddhraj1412?template=classic&repositories=1&repositories.pinned=true&config.timezone=Asia%2FKolkata"/>
+
