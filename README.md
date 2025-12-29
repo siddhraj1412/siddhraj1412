@@ -117,6 +117,32 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=siddhraj1412
 ![snake](https://raw.githubusercontent.com/siddhraj1412/siddhraj1412/output/github-contribution-grid-snake-dark.svg)
 
 
+<p>
+  <img align="center"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&theme=react-dark"
+       alt="siddhraj1412" />
+</p>
+
+
+<p>
+  <img align="center"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&theme=dracula"
+       alt="siddhraj1412" />
+</p>
+
+
+<p>
+  <img align="center"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&theme=tokyonight"
+       alt="siddhraj1412" />
+</p>
+
+
+<p>
+  <img align="center"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&theme=github-dark"
+       alt="siddhraj1412" />
+</p>
 
 
 
