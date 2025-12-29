@@ -105,13 +105,33 @@
 
 ## Github Analytics
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&" alt="siddhraj1412" /></p>
+<img src="https://metrics.lecoq.io/siddhraj1412?template=classic&base.activity=1&config.timezone=Asia%2FKolkata" />
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=siddhraj1412&theme=tokyo-night&hide_border=true&cache_seconds=21600"
-    width="90%"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=siddhraj1412&theme=react-dark&hide_border=true&cache_seconds=21600"
 </p>
+
 ## 🐍 Contribution Activity
+
 ![snake](https://raw.githubusercontent.com/siddhraj1412/siddhraj1412/output/github-contribution-grid-snake-dark.svg)
+
+
+
+
+
+
+
+## 📊 GitHub Analytics
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhraj1412&theme=react-dark&hide_border=true&cache_seconds=21600" />
+
+<br/>
+
+<img src="https://metrics.lecoq.io/siddhraj1412?template=classic&base.activity=1&base.repositories=1&config.timezone=Asia%2FKolkata" />
+
+<br/>
+
+![snake](https://raw.githubusercontent.com/siddhraj1412/siddhraj1412/output/github-contribution-grid-snake-dark.svg)
+
 
