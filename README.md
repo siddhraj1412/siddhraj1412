@@ -61,7 +61,6 @@
 ### 📈 Data Visualization & Analytics
 <p align="center">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Tableau_Logo.png" width="45"/>
 </p>
 
 ---
@@ -104,8 +103,6 @@
 </p>
 
 ## Github Analytics
-
-<img src="https://metrics.lecoq.io/siddhraj1412?template=classic&base.activity=1&config.timezone=Asia%2FKolkata" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&" alt="siddhraj1412" /></p>
 
