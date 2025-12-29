@@ -97,16 +97,21 @@
 ---
 
 ### ⚽ Domain Focus
-<p align="center">
+<p>
   <b>Football Analytics</b> • Sports Data Analysis • Moneyball  
   <br/>
   Player Performance • Match Insights • ML for Sports
 </p>
 
+## Github Analytics
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&" alt="siddhraj1412" /></p>
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=siddhraj1412&theme=tokyo-night&hide_border=true&cache_seconds=21600"
+    width="90%"/>
+</p>
 ## 🐍 Contribution Activity
 ![snake](https://raw.githubusercontent.com/siddhraj1412/siddhraj1412/output/github-contribution-grid-snake-dark.svg)
 
-<img src="https://ghchart.rshah.org/409ba5/siddhraj1412" />
