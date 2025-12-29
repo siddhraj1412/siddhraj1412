@@ -46,6 +46,5 @@
 
 ## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/siddhraj1412/siddhraj1412/main/assets/snake.svg" />
 
-<img src="https://raw.githubusercontent.com/siddhraj1412/siddhraj1412/output/github-contribution-grid-snake.svg" />
