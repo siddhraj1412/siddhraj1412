@@ -38,7 +38,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhraj1412&" alt="siddhraj1412" /></p>
 
-<img src="https://ghchart.rshah.org/siddhraj1412"/>
+<img src="https://metrics.lecoq.io/siddhraj1412?template=classic&isocalendar=1&languages=1&languages.limit=8&languages.analysis=1&languages.colors=github&config.timezone=Asia%2FKolkata"/>
 
 ## 💡 Developer Quote
 
