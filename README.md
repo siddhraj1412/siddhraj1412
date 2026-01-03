@@ -105,6 +105,11 @@
 
 ---
 
+## CODOLIO Stats
+[![My Codolio Stats](codolio.com/profile/Siddhraj)](codolio.com/profile/Siddhraj)
+
+
+
 ### ⚽ Domain Focus
 <p>
   <b>Football Analytics</b> • Sports Data Analysis • Moneyball  
