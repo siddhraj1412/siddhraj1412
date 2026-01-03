@@ -112,9 +112,9 @@
 
 ### ⚽ Domain Focus
 <p>
-  <b>Football Analytics</b> • Sports Data Analysis • Moneyball  
+  <b>Football Analytics</b> • Data Analysis • MAchine Learning  
   <br/>
-  Player Performance • Match Insights • ML for Sports
+   Sports Data Analysis • Moneyball • ML for Sports
 </p>
 
 ## Github Analytics
