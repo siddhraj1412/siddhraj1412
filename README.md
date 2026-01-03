@@ -119,11 +119,18 @@
 
 ## Github Analytics
 
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=siddhraj1412&theme=tokyonight&hide_border=true&cache_seconds=21600" alt="siddhraj1412" /></p>
+<p>
+  <img
+    align="center"
+    src="https://nirzak-streak-stats.vercel.app/?user=siddhraj1412&theme=nightowl&hide_border=true&cache_seconds=21600"
+    alt="siddhraj1412"
+  />
+</p>
+
 
 <p align="center">
   <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=siddhraj1412&theme=react-dark&hide_border=true&cache_seconds=21600"
+src="https://github-readme-activity-graph.vercel.app/graph?username=siddhraj1412&theme=nightowl&hide_border=true&cache_seconds=21600"
 </p>
 
 ## 🐍 Contribution Activity
