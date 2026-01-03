@@ -105,6 +105,10 @@
 
 ---
 
+## 🧠 Competitive Programming
+
+[![Codolio Profile](https://img.shields.io/badge/Codolio-View%20Profile-blueviolet?style=for-the-badge)](https://codolio.com/profile/Siddhraj)
+
 
 ### ⚽ Domain Focus
 <p>
