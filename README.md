@@ -105,10 +105,6 @@
 
 ---
 
-## CODOLIO Stats
-[![My Codolio Stats](codolio.com/profile/Siddhraj)](codolio.com/profile/Siddhraj)
-
-
 
 ### ⚽ Domain Focus
 <p>
