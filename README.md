@@ -43,6 +43,8 @@
 <a href="https://www.leetcode.com/siddhrajthakor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddhrajthakor" height="30" width="40" /></a>
 </p>
 
+---
+
 ## 🧰 Tech Stack & Tools
 
 ### 💻 Programming Languages
@@ -108,6 +110,8 @@
 ## 🧠 Competitive Programming
 
 [![Codolio Profile](https://img.shields.io/badge/Codolio-View%20Profile-blueviolet?style=for-the-badge)](https://codolio.com/profile/Siddhraj)
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 
 ### ⚽ Domain Focus
@@ -117,21 +121,51 @@
    Sports Data Analysis • Moneyball • ML for Sports
 </p>
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 ## Github Analytics
 
-<p>
-  <img
-    align="center"
-    src="https://nirzak-streak-stats.vercel.app/?user=siddhraj1412&theme=nightowl&hide_border=true&cache_seconds=21600"
-    alt="siddhraj1412"
-  />
-</p>
+<div align="center">
+  <img width="49%" height="195px"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=siddhraj1412&show_icons=true&count_private=true&hide_border=true&theme=nightowl"
+    alt="Siddhraj's GitHub Stats" />
+  <img width="41%" height="195px"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=siddhraj1412&layout=compact&hide_border=true&langs_count=8&theme=nightowl"
+    alt="Top Languages"/>
+</div>
 
+<br/>
+
+<div align="center">
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=siddhraj1412&theme=nightowl&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 📈 Contribution Graph
 
 <p align="center">
   <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=siddhraj1412&theme=nightowl&hide_border=true&cache_seconds=21600"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=siddhraj1412&theme=nightowl&hide_border=true"
+  />
 </p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=siddhraj1412&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&v=1" alt="GitHub Trophies" width="100%"/>
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🐍 Contribution Activity
 
