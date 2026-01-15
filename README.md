@@ -138,10 +138,7 @@
 <br/>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=siddhraj1412&theme=nightowl&hide_border=true"
-    alt="GitHub Streak Stats"
-  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=siddhraj1412&theme=nightowl&hide_border=true" />
 </p>
 
 <!-- Animated Divider -->
