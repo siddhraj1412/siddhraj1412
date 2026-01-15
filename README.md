@@ -137,10 +137,11 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=siddhraj1412&theme=nightowl&hide_border=true" />
-</p>
-
+<div align="center">
+  <a href="https://github.com/siddhraj1412">
+    <img width="60%" src="https://github-readme-streak-stats-eight.vercel.app/?user=siddhraj1412&show_icons=true&count_private=true&hide_border=true&theme=nightowl" alt="GitHub Streak"/>
+  </a>
+</div>
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
