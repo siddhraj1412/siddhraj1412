@@ -13,11 +13,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=siddhraj1412&label=Profile%20views&color=0e75b6&style=flat" alt="siddhraj1412" /> </p>
 
-- 🔭 I’m currently working on **Football analysis skills**
+- 🔭 I’m currently working on **Something fun to use**
 
-- 🌱 I’m currently learning **Moneyball**
+- 🌱 I’m currently learning **The new Technology**
 
-- 👯 I’m looking to collaborate on **Football analysis**
+- 👯 I’m looking to collaborate on **my current project**
 
 - 🤝 I’m looking for help with [Football analysis project](https://github.com/siddhraj1412/football-analysis)
 
@@ -25,11 +25,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@siddhraj761](https://medium.com/@siddhraj761)
 
-- 💬 Ask me about **Football and ML**
+- 💬 Ask me about **Movies and series**
 
 - 📫 How to reach me **siddhraj761@gmail.com**
 
-- ⚡ Fun fact **I think I am going crazy for football**
+- ⚡ Fun fact **I think I am going crazy for my new project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
