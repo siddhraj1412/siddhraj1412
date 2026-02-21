@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Siddhraj Thakor</h1>
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=5BC0EB&size=26&center=true&width=820&lines=AIML+Student+%7C+Aspiring+Football+Data+Analyst;Data-Driven+Football+Analysis+%7C+ML+in+Sports;Turning+Match+Data+into+Insights;Football+%2B+Data+%2B+AI"
-  />
-</p>
+<h1 align="center">Hi, I'm Siddhraj Thakor</h1>
+
 
 <p align="center">
    <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
